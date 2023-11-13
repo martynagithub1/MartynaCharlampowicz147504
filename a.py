@@ -12,5 +12,5 @@ def wyswietl_imiona(imiona):
         print(imie)
 
 
-wyswietl_imiona(["Martyna", "Dawid", "Kacper", "Ewa", "Zosia"])
+wyswietl_imiona(["Basia", "Bartek", "Marta", "Filip", "Dominika"])
 
