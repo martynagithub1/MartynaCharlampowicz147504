@@ -7,6 +7,3 @@ def wyswietl_imiona(imiona):
 
 
 wyswietl_imiona(["Martyna", "Dawid", "Kacper", "Ewa", "Zosia"])
-
-
-
